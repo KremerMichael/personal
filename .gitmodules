@@ -1,0 +1,6 @@
+[submodule "Website"]
+	path = Website
+	url = https://github.com/KremerMichael/Website.git
+[submodule "stockBot"]
+	path = stockBot
+	url = https://github.com/KremerMichael/stockBot.git
