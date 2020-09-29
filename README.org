@@ -1,0 +1,31 @@
+This Repository is dedicated to personal projects.
+
+=== TO DO ===
+* Professional
+** Finalize Resume
+** Create Cover-Letter Template
+** Update Linkedin
+** Sort github
+
+* TODO Calendar
+
+* PROJ Become Bankless
+
+* TODO Mount HDD
+
+* PROJ .bash/
+** git_recursive
+
+* PROJ Raspi4 Home Server
+** Remote Git Repo
+** DNS server
+** Remote VPN
+** PiHole
+
+* PROJ StockBot
+
+* PROJ Personal Website
+** Host on Raspi4
+** Embed StockBot
+
+* TODO Migrate ~/ to kremerme Git
